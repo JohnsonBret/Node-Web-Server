@@ -40,3 +40,5 @@ Method: GET Request url: /about at time: Wed Jan 02 2019 23:26:29 GMT-0800 (Paci
 Method: GET Request url: /about at time: Wed Jan 02 2019 23:27:19 GMT-0800 (Pacific Standard Time)
 Method: GET Request url: /about at time: Wed Jan 02 2019 23:28:50 GMT-0800 (Pacific Standard Time)
 Method: GET Request url: / at time: Wed Jan 02 2019 23:28:55 GMT-0800 (Pacific Standard Time)
+Method: GET Request url: / at time: Thu Jan 03 2019 00:38:04 GMT-0800 (Pacific Standard Time)
+Method: GET Request url: /favicon.ico at time: Thu Jan 03 2019 00:38:04 GMT-0800 (Pacific Standard Time)
